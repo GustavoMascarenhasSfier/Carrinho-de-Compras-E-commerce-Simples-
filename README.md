@@ -4,7 +4,7 @@ Este projeto é uma aplicação web de vitrine de produtos e um carrinho de comp
 
 O projeto simula um e-commerce básico onde o usuário pode visualizar uma lista de produtos, adicionar itens ao carrinho, visualizar o resumo (incluindo descontos), e manter o estado do carrinho salvo ao recarregar a página através do **LocalStorage**.
 
-[![Link do Projeto (Se Tiver)](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://[Seu-Link-do-GitHub-Pages-Aqui])
+[![Link do Projeto (Se Tiver)](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://gustavomascarenhassfier.github.io/Carrinho-de-Compras-E-commerce-Simples-/)
 
 ## 🎯 Objetivo de Estudo (Foco em JavaScript Puro)
 
